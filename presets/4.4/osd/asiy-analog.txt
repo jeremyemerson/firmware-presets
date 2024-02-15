@@ -17,3 +17,5 @@ set osd_pilot_name_pos = 2049
 set osd_avg_cell_voltage_pos = 2443
 set osd_core_temp_pos = 207
 set osd_sys_vtx_temp_pos = 202
+
+set vcd_video_system = NTSC
