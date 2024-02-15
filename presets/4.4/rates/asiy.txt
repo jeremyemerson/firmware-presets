@@ -6,8 +6,6 @@
 #$ STATUS: EXPERIMENTAL
 #$ AUTHOR: Jeremy Emerson
 
-#$ PARSER: MARKED
-
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = BETAFLIGHT
