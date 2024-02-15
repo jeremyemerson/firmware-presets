@@ -1,4 +1,4 @@
-#$ TITLE: Asiy Rates
+#$ TITLE: Asiy - Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
