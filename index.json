@@ -3956,6 +3956,20 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/asiy-analog.txt",
+      "hash": "1980c436afafcd8c1efc62edc92e907d783d32b50cba7f1f08e3dc56555b74ec",
+      "title": "Asiy Analog OSD",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "author": "Jeremy Emerson",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",

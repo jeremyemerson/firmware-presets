@@ -1,0 +1,17 @@
+#$ TITLE: Asiy Analog OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ AUTHOR: Jeremy Emerson
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_tim_2_pos = 2455
+set osd_throttle_pos = 2081
+set osd_vtx_channel_pos = 2433
+set osd_pilot_name_pos = 2049
+set osd_avg_cell_voltage_pos = 2443
+set osd_core_temp_pos = 207
+set osd_sys_vtx_temp_pos = 202
